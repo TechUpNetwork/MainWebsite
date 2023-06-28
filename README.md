@@ -1,2 +1,2 @@
 # MainWebsite
-Code Source for the Main Website of LET
+Code Source for the maintenance website of LET
